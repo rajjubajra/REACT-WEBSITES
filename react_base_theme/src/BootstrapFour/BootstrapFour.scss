@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+div,
+section {
+  font-family: 'Roboto', sans-serif;
+  scroll-behavior: smooth;
+
+
+
+  .card,
+  .btn,
+  .list-group {
+    border-radius: 0em !important;
+  }
+
+
+  /** FORM **/
+  input,
+  textarea,
+  select,
+  input:focus,
+  textarea:focus,
+  input.form-control:focus {
+    border-radius: 0px !important;
+    outline: none !important;
+    outline-style: none !important;
+  }
+
+  label {
+    font-weight: 100;
+    line-height: 0.1rem;
+    letter-spacing: 0.1rem;
+  }
+
+  button {
+    outline: none !important;
+  }
+
+}

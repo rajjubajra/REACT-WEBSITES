@@ -1,0 +1,14 @@
+{
+  "name": "react-base-theme-json-server",
+  "version": "1.0.0",
+  "description": "fake rest api",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "author": "rajjubajra",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.15.1"
+  }
+}

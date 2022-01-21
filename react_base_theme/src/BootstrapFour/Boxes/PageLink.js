@@ -1,0 +1,25 @@
+export const pagelink = {
+  pages: "b4boxes",
+  one: "box-1",
+  two: "box-2",
+  three: "box-3",
+  four: "box-4",
+  five: "box-5",
+  six: "box-6",
+  viewSix: "viewSix",
+  seven: "box-7",
+  eight: "box-8",
+  nine: "box-9",
+  ten: "box-10",
+  eleven: "box-11",
+  twelve: "box-12",
+  thirteen: "box-13",
+  fourteen: "box-14",
+  fifteen: "box-15",
+  sixteen: "box-16",
+  seventeen: "box-17",
+  eighteen: "box-18",
+  nineteen: "box-19",
+  twenty: "box-20"
+}
+

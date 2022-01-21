@@ -1,0 +1,94 @@
+{
+  "MainMenu":[
+    {
+      "id": "1",
+      "name": "Microsoft365",
+      "link": "/"
+    },
+    {
+      "id": "2",
+      "name": "Office",
+      "link":"/"
+    },
+    {
+      "id": "3",
+      "name": "Windows",
+      "link": "/"
+    },
+    {
+      "id": "4",
+      "name": "Surface",
+      "link": "/"
+    },
+    {
+      "id": "5",
+      "name": "Xbox",
+      "link":"/"
+    },
+    {
+      "id": "6",
+      "name": "Deals",
+      "link":"/"
+    },
+    {
+      "id": "7",
+      "name": "Supports",
+      "link":"/"
+    }
+  ],
+  "product_icons": [
+    {
+      "id":"1",
+      "icons": "/assets/images/RE4pkvE.png",
+      "alt": "Icons",
+      "label": "Chose Your 7839"
+    },
+    {
+      "id":"2",
+      "icons": "/assets/images/RE4pkvg.png",
+      "alt": "Icons",
+      "label": "Shop for Devices"
+    },
+    {
+      "id":"3",
+      "icons": "/assets/images/RE4pndL.png",
+      "alt": "Icons",
+      "label": "Buy Game and Console"
+    },
+    {
+      "id":"4",
+      "icons": "/assets/images/RE4pxBu.png",
+      "alt": "Icons",
+      "label": "Shop for Software"
+    },
+    {
+      "id":"5",
+      "icons": "/assets/images/RE4rriw.png",
+      "alt": "Icons",
+      "label": "Find your Product"
+    },
+    {
+      "id":"6",
+      "icons": "/assets/images/RE4sQDc.png",
+      "alt": "Icons",
+      "label": "Shop Business"
+    }
+  ],
+  "product_images": [
+    {
+      "id":"1",
+      "image": "/assets/images/RE2iCCW.webp",
+      "title": "Product 456",
+      "body": "<p></p>",
+      "link": "/"
+    },
+    {
+      "id":"2",
+      "image": "/assets/images/RE4CFrR.webp",
+      "title": "Product 456",
+      "body": "<p></p>",
+      "link": "/"
+    }
+
+  ]
+}
